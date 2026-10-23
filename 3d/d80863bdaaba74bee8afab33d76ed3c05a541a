@@ -1,0 +1,21 @@
+Formula/modelfs.rb
+  s_1b7f3058175722::t_b0c0b544cbdf12 1-26
+README.md
+  s_1b7f3058175722::t_3ca052df595184 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "3dd80863bdaaba74bee8afab33d76ed3c05a541a",
+  "prompts": {},
+  "sessions": {
+    "s_1b7f3058175722": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b704105-d361-4193-8646-77a377883432",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Glenn Sonna <3216616+theGlenn@users.noreply.github.com>"
+    }
+  }
+}
